@@ -1,4 +1,5 @@
-# ChiFan-MP-V1
+# ChiFan-MP
+Purpose: Lecture repo for Lewagon Chengdu,China
 Wechat Mini-program : ChiFan Mini-program
 Version: 1
 
