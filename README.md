@@ -1,10 +1,8 @@
 # ChiFan-MP
 Purpose: Lecture repo for Lewagon Chengdu,China
+
 Wechat Mini-program : ChiFan Mini-program
-Version: 1
 
-
-WX:for with card
 
 
 ![LandingPage](https://github.com/pitipon/Chifan-MP/blob/master/screenshot/Screen%20Shot%202018-05-12%20at%2022.26.51.png)
